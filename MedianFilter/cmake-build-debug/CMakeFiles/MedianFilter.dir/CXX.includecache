@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Prasuna/GitHub/MedianFilter/medianfilter.cpp
+stdio.h
+-
+iostream
+-
+stdlib.h
+-
+algorithm
+-
+

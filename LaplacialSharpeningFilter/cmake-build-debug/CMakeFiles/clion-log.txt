@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/Prasuna/GitHub/LaplacialSharpeningFilter
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/Prasuna/GitHub/LaplacialSharpeningFilter/cmake-build-debug

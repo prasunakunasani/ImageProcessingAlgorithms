@@ -1,0 +1,3 @@
+/Users/Prasuna/GitHub/SobelEdgeDetection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Prasuna/GitHub/SobelEdgeDetection/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Prasuna/GitHub/SobelEdgeDetection/cmake-build-debug/CMakeFiles/SobelEdgeDetection.dir

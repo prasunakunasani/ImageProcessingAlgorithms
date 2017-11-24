@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Prasuna/GitHub/LaplacialSharpeningFilter/main.cpp
+stdio.h
+-
+iostream
+-
+stdlib.h
+-
+

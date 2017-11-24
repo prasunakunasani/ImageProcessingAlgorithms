@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AveragingFilter"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AveragingFilter">
+				<Option output="/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/AveragingFilter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 AveragingFilter"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AveragingFilter/fast">
+				<Option output="/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/AveragingFilter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 AveragingFilter/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Prasuna/GitHub/AveragingFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Prasuna/GitHub/AveragingFilter/avgfilter.cpp">
+			<Option target="AveragingFilter"/>
+		</Unit>
+		<Unit filename="/Users/Prasuna/GitHub/AveragingFilter/testpattern.raw">
+			<Option target="AveragingFilter"/>
+		</Unit>
+		<Unit filename="/Users/Prasuna/GitHub/AveragingFilter/testpatternnew.png">
+			<Option target="AveragingFilter"/>
+		</Unit>
+		<Unit filename="/Users/Prasuna/GitHub/AveragingFilter/testpatternnew.raw">
+			<Option target="AveragingFilter"/>
+		</Unit>
+		<Unit filename="/Users/Prasuna/GitHub/AveragingFilter/testpatternnew2.png">
+			<Option target="AveragingFilter"/>
+		</Unit>
+		<Unit filename="/Users/Prasuna/GitHub/AveragingFilter/testpatternnew2.raw">
+			<Option target="AveragingFilter"/>
+		</Unit>
+		<Unit filename="/Users/Prasuna/GitHub/AveragingFilter/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
